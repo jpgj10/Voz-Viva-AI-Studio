@@ -1,0 +1,7 @@
+{
+  "name": "VozViva AI Studio",
+  "description": "Aplicación profesional de Texto a Voz (TTS) con voces naturales, control de emociones y acentos regionales.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
